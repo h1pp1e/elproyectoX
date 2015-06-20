@@ -1,1 +1,33 @@
+<<<<<<< HEAD
 hola lo modifico pablo
+=======
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Foo bar fubar*/
+>>>>>>> e7f8827627722096a761bdd0b50a6ae0b5b3a998
